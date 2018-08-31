@@ -37,9 +37,12 @@ public class ServletDemo3 extends HttpServlet {
     protected void doGet( HttpServletRequest req, HttpServletResponse resp ) throws ServletException, IOException {
         System.out.println("使用ServletDemo3的doGet方法啦");
         resp.setContentType("text/html");
-        PrintWriter writer = resp.getWriter();
 
-        writer.println("<h1>" + message + "</h1>");
+        String url = "http://www.runoob.com";
+        resp.sendRedirect(url);
+     /*   PrintWriter writer = resp.getWriter();
+
+        writer.println("<h1>" + message + "</h1>");*/
     }
 
     @Override
