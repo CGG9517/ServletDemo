@@ -48,7 +48,7 @@ public class LogFilter implements Filter {
                     "<h1 align=\"center\">" + title + "</h1>\n" +
                     "</body></html>");
         }*/
-        System.out.println("过滤中");
+        System.out.println("LogFilter过滤中");
         chain.doFilter(request, response);
 
 

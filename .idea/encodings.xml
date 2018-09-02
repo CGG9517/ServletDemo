@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/ArrayOfString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/GetDatabaseInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/GetDatabaseInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/GetMobileCodeInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/GetMobileCodeInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/MobileCodeWS.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/MobileCodeWSHttpGet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/MobileCodeWSHttpPost.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/MobileCodeWSSoap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/demos/webService/package-info.java" charset="GBK" />
+  </component>
+</project>
